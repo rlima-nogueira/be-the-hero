@@ -17,3 +17,5 @@ Frameworks:
 Linguagem: 
 - Javascript
 
+
+Link do deploy: https://be-the-hero.rlima-nogueira.vercel.app/
